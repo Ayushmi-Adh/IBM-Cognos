@@ -1,6 +1,9 @@
 # IBM Cognos Analytics Learning Repository
 
-Welcome to my IBM Cognos Analytics Learning Repository! 🚀 Here, I've documented my journey and learnings in harnessing the power of Cognos Analytics to create impactful dashboards.
+Welcome to my IBM Cognos Analytics Learning Repository! 🚀 Here, I've documented my journey and learnings in harnessing the power of Cognos Analytics to create impactful visualizations
+
+![image](https://github.com/Ayushmi-Adh/IBM-Cognos/assets/132826306/f06b132a-a551-4c10-ac05-4ac43d3868af)
+
 
 ## Overview
 

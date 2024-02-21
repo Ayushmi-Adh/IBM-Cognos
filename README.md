@@ -24,6 +24,6 @@ Feel free to explore the contents of this repository to dive into the world of C
 
 ## Connect with Me
 
-Let's connect! If you're passionate about Cognos Analytics, data visualization, or analytics in general, I'd love to exchange insights and experiences. Connect with me on [LinkedIn](#your-linkedin-profile)!
+Let's connect! If you're passionate about Cognos Analytics, data visualization, or analytics in general, I'd love to exchange insights and experiences. Connect with me on [LinkedIn](https://www.linkedin.com/in/ayushmi-adhikari-6b94b71a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)!
 
 Happy learning! 📊✨
